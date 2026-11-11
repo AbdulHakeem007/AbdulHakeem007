@@ -3,7 +3,7 @@
 Final-year **Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
 I build full-stack products, applied AI systems, and operational software — with a focus on clear architecture and maintainable delivery.
 
-**Open to:** Software Engineering internships and full-time roles (full-stack, backend, applied ML).
+**Open to:**Full-time roles (full-stack, backend, applied ML).
 
 ---
 
