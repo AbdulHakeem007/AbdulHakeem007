@@ -43,12 +43,7 @@ HCI milestone prototype for a multi-vendor campus food ordering experience (brow
 
 | [CS-112-Project](https://github.com/AbdulHakeem007/CS-112-Project) | CS-112 semester project in C++ (OOP fundamentals) |
 
-### Front-end lab pages
-| Repository | What it is |
-|---|---|
-| [LabTask](https://github.com/AbdulHakeem007/LabTask) | Early personal portfolio page (HTML/CSS) |
-| [Lab7](https://github.com/AbdulHakeem007/Lab7) | Portfolio lab exercise |
-| [ahmad_port](https://github.com/AbdulHakeem007/ahmad_port) | Static portfolio page built as a front-end exercise |
+
 
 ---
 
