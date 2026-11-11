@@ -1,9 +1,9 @@
 # Abdul Hakeem
 
-**Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
-I build production-minded full-stack systems, developer tools, and applied ML workflows — with a focus on clear architecture, reliable operations, and maintainable code.
+Final-year **Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
+I build full-stack products, applied AI systems, and operational software — with a focus on clear architecture and maintainable delivery.
 
-**Open to:** Software Engineering internships and full-time roles (backend, full-stack, platform).
+**Open to:** Software Engineering internships and full-time roles (full-stack, backend, applied ML).
 
 ---
 
@@ -11,47 +11,53 @@ I build production-minded full-stack systems, developer tools, and applied ML wo
 
 | Category | Technologies |
 |---|---|
-| **Languages** | TypeScript, JavaScript, Python, Java, C++, SQL, HTML/CSS |
-| **Frameworks** | Next.js, React, Django, Prisma, Vite |
-| **Developer tools** | Git, GitHub Actions, ESLint, Prettier, Ruff, Blender API, Jupyter |
-| **Infrastructure** | PostgreSQL, SQLite, REST APIs, Nodemailer/SMTP |
+| **Languages** | TypeScript, JavaScript, Python, Java, C++, SQL |
+| **Frameworks** | Next.js, React, Django, Flask, Prisma, Vite |
+| **AI / Data** | PyTorch, CNNs, Jupyter, synthetic dataset tooling |
+| **Tools & infra** | Git, GitHub Actions, MySQL, PostgreSQL, SQLite, REST APIs |
 
 ---
 
 ## Featured projects
 
-
 ### [BlendGen](https://github.com/AbdulHakeem007/blendgen)
-Blender add-on (Final Year Project) that generates labelled synthetic datasets for object detection — surface-constrained placement, BVH collision avoidance, domain randomization, and YOLO/COCO export.  
+Final Year Project — Blender add-on that generates labelled synthetic datasets for object detection (placement, collision avoidance, domain randomization, YOLO/COCO export).  
 **Stack:** Python · Blender 4.x API
+
+### [Kissan Madadgaar](https://github.com/AbdulHakeem007/kissan-madadgaar)
+AI assistant for farmers — plant disease detection using a CNN (PyTorch) trained on leaf imagery, with a Flask web app for inference.  
+**Stack:** PyTorch · CNN · Flask · Python  
+**Role:** Team project collaborator
+
+### [Housing Society ERP](https://github.com/AbdulHakeem007/housing-society-erp)
+ERP-style housing society platform with visitor management, role-based access, and MySQL-backed operations workflows.  
+**Stack:** JavaScript · Node · MySQL  
+**Role:** Team project collaborator
+
+### [DBMS Project — E-Commerce + Fraud Detection](https://github.com/AbdulHakeem007/DBMS-Project)
+Django e-commerce system with catalog, cart/checkout, order tracking, and a fraud-detection layer for risky transactions.  
+**Stack:** Django · HTML/Bootstrap · SQLite/SQL  
+**Role:** Team project collaborator
 
 ### [Blog Platform](https://github.com/AbdulHakeem007/Blog)
 Django blog with authentication, author-scoped CRUD, categories, and Groq LLM post summarization.  
-**Stack:** Django · SQLite · Groq API
+**Stack:** Django · Groq API
 
 ### [Campus Food Ordering UI](https://github.com/AbdulHakeem007/Hcimilestone4)
-HCI milestone prototype for a multi-vendor campus food ordering experience (browse, menu, cart, account).  
+HCI prototype for multi-vendor campus food ordering (home, menu, cart, account).  
 **Stack:** React · TypeScript · Vite
 
----
-
-## Additional projects
-
-### Systems & coursework
-| Repository | What it is |
-|---|---|
-
-| [CS-112-Project](https://github.com/AbdulHakeem007/CS-112-Project) | CS-112 semester project in C++ (OOP fundamentals) |
-
-
+### [CS-101 Project](https://github.com/AbdulHakeem007/CS-101-Project)
+C++ encryption/decryption toolkit covering classical and RSA-style workflows.  
+**Stack:** C++  
+**Role:** Team project collaborator
 
 ---
 
 ## Currently focused on
 
-- Shipping and hardening the **Fiber Inventory Portal** for real operational workflows  
-- Completing **BlendGen** as a usable research/engineering tool for synthetic vision data  
-- Keeping public repos documented, tested, and recruiter-ready  
+- Completing **BlendGen** as a usable synthetic-data tool for vision ML  
+- Strengthening documentation and delivery quality across flagship projects  
 
 ---
 
