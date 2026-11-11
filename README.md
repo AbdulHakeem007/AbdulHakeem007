@@ -1,6 +1,6 @@
 # Abdul Hakeem
 
-Final-year **Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
+**Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
 I build production-minded full-stack systems, developer tools, and applied ML workflows — with a focus on clear architecture, reliable operations, and maintainable code.
 
 **Open to:** Software Engineering internships and full-time roles (backend, full-stack, platform).
@@ -20,9 +20,6 @@ I build production-minded full-stack systems, developer tools, and applied ML wo
 
 ## Featured projects
 
-### [Fiber Inventory Portal](https://github.com/AbdulHakeem007/Fiber)
-Production-style telecom operations portal for site registry, ODF/rack-aware fiber inventory, service tracing, CSV import staging, utilization alerts, and role-based admin controls.  
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · React Flow
 
 ### [BlendGen](https://github.com/AbdulHakeem007/blendgen)
 Blender add-on (Final Year Project) that generates labelled synthetic datasets for object detection — surface-constrained placement, BVH collision avoidance, domain randomization, and YOLO/COCO export.  
@@ -43,11 +40,7 @@ HCI milestone prototype for a multi-vendor campus food ordering experience (brow
 ### Systems & coursework
 | Repository | What it is |
 |---|---|
-| [SE423L](https://github.com/AbdulHakeem007/SE423L) | Software Construction lab — Java SOLID principles and design patterns |
-| [AILab](https://github.com/AbdulHakeem007/AILab) | AI lab notebooks — regression, decision trees, random forests, ANN, CNN |
-| [Web](https://github.com/AbdulHakeem007/Web) | SE351L Web Engineering lab archive (HTML → JS → PHP → Django path) |
-| [OEL_Lab](https://github.com/AbdulHakeem007/OEL_Lab) | Open-ended Django portfolio scaffold |
-| [LABMIDWEB](https://github.com/AbdulHakeem007/LABMIDWEB) | Web Engineering midterm demo (HTML + PHP) |
+
 | [CS-112-Project](https://github.com/AbdulHakeem007/CS-112-Project) | CS-112 semester project in C++ (OOP fundamentals) |
 
 ### Front-end lab pages
