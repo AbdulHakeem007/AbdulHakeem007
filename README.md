@@ -1,6 +1,6 @@
 # Abdul Hakeem
 
-**Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
+Final-year **Software Engineering** student at [Ghulam Ishaq Khan Institute (GIKI)](https://www.giki.edu.pk/).  
 I build production-minded full-stack systems, developer tools, and applied ML workflows — with a focus on clear architecture, reliable operations, and maintainable code.
 
 **Open to:** Software Engineering internships and full-time roles (backend, full-stack, platform).
@@ -20,6 +20,9 @@ I build production-minded full-stack systems, developer tools, and applied ML wo
 
 ## Featured projects
 
+### [Fiber Inventory Portal](https://github.com/AbdulHakeem007/Fiber)
+Production-style telecom operations portal for site registry, ODF/rack-aware fiber inventory, service tracing, CSV import staging, utilization alerts, and role-based admin controls.  
+**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · React Flow
 
 ### [BlendGen](https://github.com/AbdulHakeem007/blendgen)
 Blender add-on (Final Year Project) that generates labelled synthetic datasets for object detection — surface-constrained placement, BVH collision avoidance, domain randomization, and YOLO/COCO export.  
